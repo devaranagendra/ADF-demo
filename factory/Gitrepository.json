@@ -1,0 +1,9 @@
+{
+	"name": "Gitrepository",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2149430-a866-4458-b13e-6883f8a4b8ae",
+		"tenantId": "ba5028ea-2f88-4298-bba5-cecf95342a75"
+	}
+}
